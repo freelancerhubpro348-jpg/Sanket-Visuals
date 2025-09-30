@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+html, body, #__next {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+  padding: 1rem;
+  text-align: center;
+}
+
+
+body{
+    overflow-x: hidden;
+}
+
+.gradient-logo {
+      background-image: linear-gradient(to right, #FBBF24, #F472B6);
+    }
