@@ -173,7 +173,7 @@ export default function Home() {
                       width={35}
                       height={35}
                       priority
-                      src={"/code.svg"}
+                      src={"./code.svg"}
                       alt="Code"
                     />
                   </span>
@@ -197,7 +197,7 @@ export default function Home() {
                       width={35}
                       height={35}
                       priority
-                      src={"/palette.svg"}
+                      src={"./palette.svg"}
                       alt="Palette"
                     />
                   </span>
@@ -221,7 +221,7 @@ export default function Home() {
                       width={35}
                       height={35}
                       priority
-                      src={"/storage.svg"}
+                      src={"./storage.svg"}
                       alt="Storage"
                     />
                   </span>
@@ -245,7 +245,7 @@ export default function Home() {
                       width={35}
                       height={35}
                       priority
-                      src={"/bug_report.svg"}
+                      src={"./bug_report.svg"}
                       alt="Bug"
                     />
                   </span>
@@ -269,7 +269,7 @@ export default function Home() {
                       width={35}
                       height={35}
                       priority
-                      src={"/system_update.svg"}
+                      src={"./system_update.svg"}
                       alt="System Update"
                     />
                   </span>
@@ -294,7 +294,7 @@ export default function Home() {
                       width={35}
                       height={35}
                       priority
-                      src={"/monitor.svg"}
+                      src={"./monitor.svg"}
                       alt="monitor"
                     />
                   </span>
