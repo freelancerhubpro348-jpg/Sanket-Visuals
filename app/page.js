@@ -125,14 +125,14 @@ export default function Home() {
               </div>
               <div className="md:w-2/3">
                 <h3 className="text-2xl font-semibold mb-4 text-text-light">
-                  Hello, I'm Sanket!
+                  Hello, I&apos;m Sanket!
                 </h3>
                 <p
                   className={`${
                     display ? "text-gray-600" : "text-white"
                   } leading-relaxed mb-4`}
                 >
-                  I'm a passionate fullstack developer with a keen eye for
+                  I&apos;m a passionate fullstack developer with a keen eye for
                   design and a love for creating seamless digital experiences.
                   My journey into development started with a fascination for how
                   things work, which quickly evolved into a career building
@@ -146,7 +146,7 @@ export default function Home() {
                   With a foundation in both front-end and back-end technologies,
                   I bring ideas to life from conception to deployment. My goal
                   is to not just write code, but to solve problems and create
-                  value for my clients and their users. Let's build something
+                  value for my clients and their users. Let&apos;s build something
                   amazing together!
                 </p>
               </div>
@@ -254,7 +254,7 @@ export default function Home() {
                   </h3>
                 </div>
                 <p className={`${display ? "text-gray-600" : "text-white"}`}>
-                  Annoying bug slowing you down? I'll hunt it down and squash it
+                  Annoying bug slowing you down? I&apos;ll hunt it down and squash it
                   for good, ensuring your website or app runs smoothly.
                 </p>
               </div>
@@ -278,7 +278,7 @@ export default function Home() {
                   </h3>
                 </div>
                 <p className={`${display ? "text-gray-600" : "text-white"}`}>
-                  Keeping your tech stack up-to-date is crucial. I'll handle
+                  Keeping your tech stack up-to-date is crucial. I&apos;ll handle
                   updates for plugins and themes to keep your site secure and
                   modern.
                 </p>
@@ -303,7 +303,7 @@ export default function Home() {
                   </h3>
                 </div>
                 <p className={`${display ? "text-gray-600" : "text-white"}`}>
-                  A slow site loses visitors. I'll monitor performance, identify
+                  A slow site loses visitors. I&apos;ll monitor performance, identify
                   bottlenecks, and implement optimizations for fast load times.
                 </p>
               </div>
@@ -335,7 +335,7 @@ export default function Home() {
                 display ? "text-gray-600" : "text-white"
               } mb-8 max-w-2xl mx-auto text-center`}
             >
-              I'm currently available for freelance projects. If you have a
+              I&apos;m currently available for freelance projects. If you have a
               project in mind or just want to say hello, feel free to reach out.
             </p>
             <div className="max-w-xl mx-auto bg-white p-8 rounded-lg shadow-md">
