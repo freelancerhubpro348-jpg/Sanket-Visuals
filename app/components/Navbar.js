@@ -70,7 +70,7 @@ const Navbar = () => {
               width={25}
               height={25}
               priority
-              src="/sun.svg"
+              src={"./sun.svg"}
               alt="Sun"
             />
           ) : (
@@ -80,7 +80,7 @@ const Navbar = () => {
               width={25}
               height={25}
               priority
-              src="/moon.svg"
+              src={"./moon.svg"}
               alt="Moon"
             />
           )}
@@ -92,7 +92,7 @@ const Navbar = () => {
             width={25}
             height={25}
             priority
-            src={display ? "/bmenu.svg" : "/wmenu.svg"}
+            src={display ? "./bmenu.svg" : "./wmenu.svg"}
             alt="Menu"
           />
         </div>
