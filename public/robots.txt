@@ -1,0 +1,7 @@
+# Allow all crawlers
+User-agent: *
+Disallow:
+
+# Block private folder
+User-agent: *
+Disallow: /admin/
